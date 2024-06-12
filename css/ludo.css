@@ -1,0 +1,120 @@
+.outer_box{
+    height: 586px;
+    width: 586px;
+    border: solid 1px black;
+    margin: auto;
+}
+.red_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float: left;
+    background-color: red;
+}
+
+.upper_box{
+    height: 207px;
+    width: 166px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+.green_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float: left;
+    background-color: green;
+    float: right;
+}
+
+.g{ 
+    height: 32.5px;
+    width: 53px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ } 
+
+.left_box{
+    height: 166px;
+    width: 207px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+
+.r{ 
+    height: 53.5px;
+    width: 32.5px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ } 
+
+.middle_box{
+    height: 166px ;
+    width: 166px;
+    border: solid 1px black;
+    float: left;
+    background-color: rgb(204, 198, 206);
+}
+h1{
+    padding-top: 40px;
+    text-align: center;
+}
+.right_box{
+    height: 166px;
+    width: 207px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+ .yellow_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float: right;
+    background-color:yellow;
+}
+
+.y{ 
+    height: 53.5px;
+    width: 32.5px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ }
+
+.blue_box{
+    height: 207px ;
+    width: 207px;
+    border: solid 1px black;
+    float:left;
+    background-color:blue;
+}
+
+.inner{
+    height: 150px ;
+    width: 150px;
+    border:solid 1px black;
+    background-color: rgb(234, 201, 201);
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 20px;
+
+}
+.lower_box{
+    height: 207px;
+    width: 166px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+}
+.lower_box .b{ 
+    height: 32.5px;
+    width: 53px;
+    border: solid 1px black;
+    background-color: white;
+    float: left;
+ } 
